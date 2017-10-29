@@ -8,8 +8,8 @@ Data set <code>lublin-listings.csv</code> contains 589 rows of data:
 * name - listing's name
 * price - listing's price
 * space - apartment size/area, if null = -1
-* latitude - listing's latitude, if null = -1
-* longitude - listing's longitude, if null = -1
+* latitude - listing's latitude, if null = -1.0
+* longitude - listing's longitude, if null = -1.0
 
 Data set <code>convenience-stores-lublin.csv</code> contains 25 rows of data, listings convenience stores in Lublin:
 
