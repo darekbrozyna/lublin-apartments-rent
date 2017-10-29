@@ -11,7 +11,7 @@ Data set <code>lublin-listings.csv</code> contains 589 rows of data:
 * latitude - listing's latitude, if null = -1
 * longitude - listing's longitude, if null = -1
 
-Data set <code>convenience-stores-lublin.csv/code> contains 25 rows of data, listings convenience stores in Lublin:
+Data set <code>convenience-stores-lublin.csv</code> contains 25 rows of data, listings convenience stores in Lublin:
 
 * type - Żabka or Lind store brand
 * latitude - store's latitude
