@@ -1,0 +1,590 @@
+,location,name,price,space,latitude,longitude
+0,"Lublin, Dziesiąta,  Nowy Świat 37","48,5 m2, ul. Nowy Świat, 2 Pok. BEZPOŚREDNIO",1100.0,48.5,51.224689,22.55873
+1,"Lublin, Czechów Górny",Wyremontowane 2 pok. mieszkanie Chodźki blisko Um,1500.0,50,51.2636111,22.5394445
+2,"Lublin,  Leszka",Atrakcyjne mieszkanie 4pokojowe,1800.0,85,51.2496532,22.48824
+3,"Lublin, Czuby, Jaspisowa","Mieszkanie, 66 m², Lublin",2000.0,-1,-1.0,-1.0
+4,"Lublin, LSM,  Pielgrzymia","2-pokojowe mieszkanie, Lublin Lsm, ul. Pielgrzymia",1500.0,44,-1.0,-1.0
+5,"Lublin, Centrum, Szeligowskiego 8","Apart. z miejscem parking, z widokiem na Lublin",3150.0,54,-1.0,-1.0
+6,"Lublin, Śródmieście,  Spokojna",Ekskluzywny apartament w centrum miasta,3300.0,93,51.2503174,22.5537375
+7,"Lublin, Centrum",Mieszkanie w Centrum,400.0,28,52.0339822,23.1192263
+8,"Lublin, Sławinek, Dzieci Zamojszczyzny","Mieszkanie, 16 m², Lublin",595.0,16,51.2556328,22.5126038
+9,Lublin,"Kawalerka na wynajem- 700 zł/ m-c, umeblowana",700.0,21,51.250559,22.5701022
+10,"Lublin, Reymonta","Kawalerka na wynajem- 700 zł/ m-c, umeblowana",700.0,17,51.2211331,22.574235
+11,"Lublin, Centrum","Mieszkanie, 12 m², Lublin",800.0,12,52.0339822,23.1192263
+12,"Lublin, Centrum",Mieszkanie w Centrum na długi okres,800.0,47,52.0339822,23.1192263
+13,"Lublin, Tatary,  Gospodarcza",Dwupokojowe mieszkanie Lublin Tatary,900.0,34,51.2434573,22.5978698
+14,"Lublin, Centrum","Mieszkanie, 16 m², Lublin",900.0,16,52.0339822,23.1192263
+15,"Lublin, Śródmieście","Mieszkanie, 28 m², Lublin",1000.0,28,51.2472348,22.5555465
+16,"Lublin, Sławin","Mieszkanie, 42 m², Lublin",1000.0,42,51.2716239,22.5098266
+17,"Lublin, Wieniawa,  Weteranów",Do wynajęcia mieszkanie Wieniawa ul Weteranów 15,1000.0,35,51.2473973,22.540733
+18,"Lublin, Ponikwoda","Mieszkanie, 27 m², Lublin",1000.0,27,51.2658578,22.5910126
+19,"Lublin, Kalinowszczyzna","Mieszkanie, 48 m², Lublin",1000.0,48,51.2548082,22.5861517
+20,Lublin,"Kawalerka na wynajem- 700 zł/ m-c, umeblowana",1000.0,26,51.250559,22.5701022
+21,Lublin,"Kawalerka na wynajem- 700 zł/ m-c, umeblowana",1000.0,25,51.250559,22.5701022
+22,"Lublin, Centrum, Aleje Racławickie","Mieszkanie, 32 m², Lublin",1000.0,32,-1.0,-1.0
+23,"Lublin, Czechów Górny",Pokój w dwupokojowym mieszkaniu przy ul. Chodźki,1050.0,15,51.2636111,22.5394445
+24,Lublin,"Kawalerka na wynajem- 700 zł/ m-c, umeblowana",1050.0,29,51.250559,22.5701022
+25,"Lublin, w pobliżu ul. Chopina","Mieszkanie,1100zł+opłaty,3pokoje,70m2,centrum!!!",1100.0,70,-1.0,-1.0
+26,"Lublin, Centrum","Mieszkanie, 23 m², Lublin",1100.0,23,52.0339822,23.1192263
+27,"Lublin, Dziesiąta, Seweryna Sierpińskiego","Mieszkanie, 50 m², Lublin",1100.0,50,51.2045562,22.5736855
+28,Lublin,"Kawalerka na wynajem- 700 zł/ m-c, umeblowana",1100.0,31,51.250559,22.5701022
+29,"Lublin, Kalinowszczyzna, Lwowska","Mieszkanie, 35 m², Lublin",1100.0,35,51.2522527,22.5757621
+30,"Lublin, Dziesiąta,  Nowy Świat 37","48,5 m2, ul. Nowy Świat, 2 Pok. BEZPOŚREDNIO",1100.0,48.5,51.224689,22.55873
+31,"Lublin, Centrum","Mieszkanie, 45 m², Lublin",1150.0,45,52.0339822,23.1192263
+32,"Lublin, Wieniawa, ks. Jerzego Popiełuszki",*** Nowe Budownictwo *** Blisko Centrum ***,1170.0,26,-1.0,-1.0
+33,"Lublin, Śródmieście",2-pokojowe mieszkanie w ścisłym Centrum za 1200 zł,1200.0,43.66,51.2472348,22.5555465
+34,"Lublin, Konstantynów, Wacława Rogińskiego","Mieszkanie, 55 m², Lublin",1200.0,55,51.2424774,22.496323
+35,"Lublin, Centrum","Mieszkanie, 45 m², Lublin",1200.0,45,52.0339822,23.1192263
+36,"Lublin, Ponikwoda","Mieszkanie, 60 m², Lublin",1200.0,60,51.2658578,22.5910126
+37,"Lublin, Centrum, Górna","Mieszkanie, 44,66 m², Lublin",1200.0,44.66,52.0339822,23.1192263
+38,"Lublin, Abramowice,  Spadochroniarzy",wynajmę mieszkanie 50 m2,1200.0,50,-1.0,-1.0
+39,"Lublin, Sławinek, Jagiellońska","Mieszkanie, 55 m², Lublin",1200.0,55,51.2578287,22.5261112
+40,"Lublin, Czuby, Bursztynowa","Mieszkanie, 48 m², Lublin",1200.0,48,51.2228016,22.5176387
+41,"Lublin, Powstańców Śląskich","Mieszkanie na wynajem, Sławinek, Blisko Kul, 61m",1200.0,61,51.2556792,22.5293873
+42,"Lublin, Wrotków, Nałkowskich","Mieszkanie, 32 m², Lublin",1200.0,32,51.1953164,22.538516
+43,"Lublin, Ponikwoda","Mieszkanie, 44 m², Lublin",1200.0,44,51.2658578,22.5910126
+44,"Lublin, Ponikwoda","Mieszkanie, 47 m², Lublin",1200.0,47,51.2658578,22.5910126
+45,"Lublin, Sławinek",Mieszkanie*2 pokoje*80 m.*kondygnacja na Sławinku!,1200.0,80,51.2562379,22.5198078
+46,"Lublin, Centrum",2 pokoje centrum!,1250.0,60,52.0339822,23.1192263
+47,"Lublin, Rury, Gościnna","Mieszkanie, 34,40 m², Lublin",1250.0,34.4,51.2311072,22.5329669
+48,"Lublin, Śródmieście, Czwartaków","Mieszkanie, 37 m², Lublin",1250.0,37,-1.0,-1.0
+49,"Lublin, okol. Uniwersytetu Medycznego",Kawalerka przy Uniwersytecie Medycznym,1300.0,28,-1.0,-1.0
+50,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie przy Um, ul. Prusa",1300.0,49,-1.0,-1.0
+51,"Lublin, Rudnik, Laurowa",2 pokoje Rudnik,1300.0,48,51.2764783,22.5814438
+52,"Lublin, Czechów","Mieszkanie, 28 m², Lublin",1300.0,28,51.2655556,22.5472222
+53,"Lublin, Śródmieście",Atrakcyjne mieszkanie w Centrum Nowa cena!!!,1300.0,69,51.2472348,22.5555465
+54,"Lublin, Śródmieście","Mieszkanie, 69 m², Lublin",1300.0,69,51.2472348,22.5555465
+55,"Lublin, Stare Miasto","Mieszkanie, 65 m², Lublin",1300.0,65,51.2473485,22.5688414
+56,"Lublin, LSM, Wigilijna","Mieszkanie, 33 m², Lublin",1300.0,33,-1.0,-1.0
+57,"Lublin, Centrum, Peowiaków","Mieszkanie, 26 m², Lublin",1300.0,26,-1.0,-1.0
+58,"Lublin, LSM, Leonarda","Mieszkanie, 33 m², Lublin",1300.0,33,51.239756,22.5136572
+59,"Lublin, Ponikwoda, Laurowa","Mieszkanie w bezpiecznej okolicy, 48m2, Ponikwoda",1300.0,48,51.2764783,22.5814438
+60,"Lublin, Dziesiąta, Kunickiego","Mieszkanie, 50 m², Lublin",1300.0,50,51.2232027,22.575588
+61,"Lublin, Bazylianówka, Bolesława Sekutowicza","2 oddz pok, blisko WspiA, Um i Olimp, Bazylianówka",1300.0,50,51.2727493,22.5768072
+62,"Lublin, Organowa","Mieszkanie, 37,70 m², Lublin",1300.0,37.7,51.2590656,22.5582694
+63,"Lublin, Kalinowszczyzna,  Franciszka Kleeberga",Wynajmę mieszkanie ul. Kleeberga.,1300.0,49,51.2571786,22.5896991
+64,"Lublin, Górki","Mieszkanie, 47 m², Lublin",1350.0,47,51.0743097,22.3725539
+65,"Lublin, os. Moniuszki",2 pokoje na Rogowskiego!,1350.0,54,51.258738,22.5422786
+66,"Lublin, Szerokie","Mieszkanie, 60 m², Lublin",1400.0,60,51.2521239,22.500581
+67,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 48 m², Lublin",1400.0,48,-1.0,-1.0
+68,Lublin,"Mieszkanie, 60 m², Lublin",1400.0,60,51.250559,22.5701022
+69,"Lublin, Węglinek",Przytulne mieszkanie na os.Węglinek!,1400.0,38,51.2182476,22.4841711
+70,"Lublin, Rogatka Warszawska, Sielankowa","Mieszkanie, 45 m², Lublin",1400.0,45,-1.0,-1.0
+71,"Lublin, Rogatka Warszawska, Żołnierska","Mieszkanie, 54 m², Lublin",1400.0,54,-1.0,-1.0
+72,"Lublin, Czuby, Dziewanny","Mieszkanie, 60 m², Lublin",1800.0,-1,51.235358,22.5145586
+73,"Lublin, Centrum, Szeligowskiego 8","Apart. z miejscem parking, z widokiem na Lublin",3150.0,54,-1.0,-1.0
+74,"Lublin, Bronowice, Kosmonautów",Atrakcyjne Mieszkanie Na Makach,1450.0,-1,51.230771,22.5902188
+75,"Lublin, Czuby,  Bursztynowa","wynajmę mieszkanie 3-pokojowe, czuby, bursztynowa",1800.0,51.4,51.2228016,22.5176387
+76,"Lublin, Tatary,  Gospodarcza",Dwupokojowe mieszkanie Lublin Tatary,900.0,34,51.2434573,22.5978698
+77,"Lublin, Wieniawa,  Legionowa","Nowe, umeblowane, bez opłat dodatkowych",1650.0,40,51.2506286,22.5318759
+78,"Lublin, Rogatka Warszawska,  Baśniowa","Wynajmę mieszkanie 2 pokojowe po remoncie, Rogatka",1700.0,49,-1.0,-1.0
+79,"Lublin, Sławinek, Czeremchowa","Mieszkanie, wynajem,ok.Ronda Krwiodawców-Sławinek",1500.0,51.7,51.2532648,22.517966
+80,"Lublin, os. Mickiewicza",Trzypokojowe mieszkanie na os. Mickiewicza -Lsm,1500.0,48,51.2418491,22.526549
+81,"Lublin, Ponikwoda","Mieszkanie na wynajem, 2 pokoje, Czechów blisko Um",1500.0,54,51.2658578,22.5910126
+82,"Lublin, LSM,  Konrada Wallenroda","LSM, Mieszkanie dwupokojowe, dla studentek (2-3)",1500.0,48,51.2417022,22.5254673
+83,"Lublin, Centrum","Mieszkanie, 38 m², Lublin",1500.0,38,52.0339822,23.1192263
+84,"Lublin, Czwartek","2 pokoje, ul. Unicka",1500.0,37.5,51.2549716,22.5744002
+85,"Lublin, Bazylianówka",Bazylianówka.! 2 pokoje do wynajęcia blisko Um.!,1500.0,54,51.2625344,22.5769461
+86,"Lublin, Stare Miasto, Jezuicka","Mieszkanie z kominkiem, Stare Miasto Centrum",1500.0,40,51.2471396,22.5680406
+87,"Lublin, Śródmieście","Mieszkanie Uniwersytet Medyczny 1500 zł, 2 pokoje",1500.0,37.5,51.2472348,22.5555465
+88,"Lublin, Czechów Górny, Partyzantów","Mieszkanie, 92 m², Lublin",1500.0,92,51.2631752,22.539629
+89,"Lublin, Czechów Górny",Wyremontowane 2 pok. mieszkanie Chodźki blisko Um,1500.0,50,51.2636111,22.5394445
+90,"Lublin, Czuby","Mieszkanie, 53 m², Lublin",1500.0,53,51.2285398,22.5209437
+91,"Lublin, Centrum","2 odrębne pokoje, Ścisłe centrum.",1500.0,53,52.0339822,23.1192263
+92,"Lublin, Centrum,  Fryderyka Chopina",Komfortowy apartament typu studio - ścisłe CENTRUM,1500.0,36,52.0308325,23.1134420359092
+93,"Lublin, Czuby","Mieszkanie, 54 m², Lublin",1500.0,54,51.2285398,22.5209437
+94,"Lublin, Czechów Dolny","Mieszkanie, 50 m², Lublin",1500.0,50,51.2608333,22.5291667
+95,"Lublin, Centrum, Chopina","Mieszkanie, 63 m², Lublin",1500.0,63,52.0308325,23.1134420359092
+96,"Lublin, Śródmieście, M.C. Skłodowskiej","Mieszkanie, 54 m², Lublin",1500.0,54,51.2460268,22.5475991
+97,"Lublin, Czechów Dolny, Organowa","Mieszkanie, 68 m², Lublin",1500.0,68,51.2590656,22.5582694
+98,"Lublin, Sławinek, Czeremchowa","Mieszkanie, 56 m², Lublin",1500.0,56,51.2532648,22.517966
+99,"Lublin, Centrum, Chopina","Mieszkanie, 60 m², Lublin",1500.0,60,52.0308325,23.1134420359092
+100,"Lublin, Rudnik, Laurowa","Mieszkanie, 48 m², Lublin",1500.0,48,51.2764783,22.5814438
+101,"Lublin, Sławinek, Kolorowa","Mieszkanie, 42 m², Lublin",1500.0,42,51.2520273,22.5190027
+102,"Lublin, Węglinek, Jantarowa","Mieszkanie, 50 m², Lublin",1500.0,50,51.2253365,22.4919224
+103,"Lublin, Słowackiego os., Balladyny","2-pokojowe, Lsm, ul. Balladyny",1500.0,37,-1.0,-1.0
+104,"Lublin, Wrotków, Domeyki","Mieszkanie, 47 m², Lublin",1500.0,47,51.2048722,22.5492728
+105,"Lublin, Wieniawa","Mieszkanie obok miasteczka akademickiego, dla 4 os",1500.0,54,51.2499359,22.5371973
+106,"Lublin, Mariańska","Mieszkanie na wynajem, Ponikwoda, Umcs",1500.0,54,51.2677923,22.5741686
+107,"Lublin, Dziesiąta, Władysława Stanisława Reymonta","Wysoki standard 30m2, wszystkie opłaty wliczone.",1500.0,30,51.2226495,22.5792632
+108,"Lublin, Śródmieście, Fryderyka Chopina","Mieszkanie, 36 m², Lublin",1500.0,36,51.2476408,22.5546405
+109,"Lublin, Ponikwoda","Mieszkanie, 50 m², Lublin",1500.0,50,51.2658578,22.5910126
+110,"Lublin, LSM,  Pielgrzymia","2-pokojowe mieszkanie, Lublin Lsm, ul. Pielgrzymia",1500.0,44,-1.0,-1.0
+111,"Lublin, Śródmieście,  Józefa Piłsudskiego",Duże mieszkanie w centrum Lublina,1500.0,90,50.4533986,23.4187539
+112,"Lublin, Dziesiąta,  Władysława Stanisława Reymonta","mieszkanie po remoncie,opłaty za media w czynszu",1500.0,30,51.2226495,22.5792632
+113,"Lublin, os. Słowackiego",Super przytulne 2 pokoje na Lsm-ie!,1550.0,38,51.2447774,22.5205194
+114,"Lublin, Czuby, Dziewanny","Mieszkanie, 66 m², Lublin",1550.0,66,51.235358,22.5145586
+115,"Lublin, Bazylianówka, Dożynkowa","Mieszkanie, 46,90 m², Lublin",1550.0,46.9,51.2767054,22.5839832
+116,"Lublin, Czechów,  Harnasie 21",Mieszkanie 3 pok. w dobrej lokalizacji (CZECHÓW),1580.0,60,51.2766358,22.5474281
+117,"Lublin, os. Nowowiejskiego, Organowa",Mieszkanie blisko centrum a także Um,1590.0,60,-1.0,-1.0
+118,"Lublin, Sławin, Limbowa","Piękne MIESZKANIE na SŁAWINIE, od listopada",1600.0,47,51.268375,22.5177537
+119,"Lublin, Centrum,  Świętoduska","apartament-studio, wysoki standard, ścisłe centrum",1600.0,32,-1.0,-1.0
+120,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 42 m², Lublin",1600.0,42,-1.0,-1.0
+121,"Lublin, Ponikwoda, Bluszczowa","Mieszkanie, 42 m², Lublin",1600.0,42,51.2775439,22.5878233
+122,"Lublin, Centrum","Mieszkanie, 52 m², Lublin",1600.0,52,52.0339822,23.1192263
+123,"Lublin, Ponikwoda",____Zadbane trzypokojowe pokojowe____,1600.0,60,51.2658578,22.5910126
+124,"Lublin, os. Karłowicza","Mieszkanie, 62 m², Lublin",1600.0,62,51.2662035,22.5543057
+125,"Lublin, Czuby, Kryształowa 31",Mieszkanie na wynajem w atrakcyjnej dzielnicy,1600.0,39,-1.0,-1.0
+126,"Lublin, Czechów, Ludwika Hirszfelda","Chodzki, 2 pokoje.",1600.0,41,-1.0,-1.0
+127,"Lublin, Centrum, Okopowa","Mieszkanie, 34 m², Lublin",1600.0,34,-1.0,-1.0
+128,"Lublin, Bazylianówka, Sekutowicza","Mieszkanie, 52 m², Lublin",1600.0,52,51.2727493,22.5768072
+129,"Lublin, Stare Miasto","Mieszkanie, 55 m², Lublin",1600.0,55,51.2473485,22.5688414
+130,"Lublin, Rury, Ignacego Rzeckiego","Mieszkanie, 50 m², Lublin",1600.0,50,51.2349905,22.5330861
+131,"Lublin, Abramowice, Konstantego I. Gałczyńskiego","Mieszkanie, 70 m², Lublin",1600.0,70,-1.0,-1.0
+132,"Lublin, Śródmieście, Gabriela Narutowicza","Mieszkanie, 64 m², Lublin",1600.0,64,51.2415583,22.5548212
+133,"Lublin, Czuby, Szmaragdowa","Mieszkanie, 48 m², Lublin",1600.0,48,51.2261558,22.5179066
+134,"Lublin, os. Paderewskiego",3 Pokoje Na Czechowie W Super Cenie!,1600.0,70,51.2746881,22.5529431
+135,"Lublin, Centrum, Furmańska","Mieszkanie, 43 m², Lublin",1600.0,43,-1.0,-1.0
+136,"Lublin, Dziesiąta, Władysława Stanisława Reymonta","Wysoki standard 32m2, wszystkie opłaty wliczone.",1600.0,32,51.2226495,22.5792632
+137,"Lublin, LSM, Grażyny","Mieszkanie, 62 m², Lublin",1600.0,62,51.2440985,22.524289
+138,"Lublin, LSM",LSM os. Mickiewicza ok.m Miasteczka Akademickiego,1650.0,47,51.2416257,22.5293341
+139,"Lublin,  Legionowa","Nowe, umeblowane, bez dodatkowych opłat.",1650.0,43,51.2506286,22.5318759
+140,"Lublin, Wieniawa,  Legionowa","Nowe, umeblowane, bez opłat dodatkowych",1650.0,40,51.2506286,22.5318759
+141,"Lublin, os. Konopnickiej","!!!Mieszkanie,54m2,Lsm!!!",1650.0,54,51.2365964,22.5254332
+142,"Lublin, Bazylianówka, Bluszczowa","Mieszkanie, 51 m², Lublin",1650.0,51,51.273747,22.5851837
+143,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 48 m², Lublin",1700.0,48,-1.0,-1.0
+144,"Lublin, LSM, Grażyny","Mieszkanie, 62 m², Lublin",1600.0,-1,51.2440985,22.524289
+145,"Lublin, Sławinek, Sielankowa","Mieszkanie, 71 m², Lublin",2400.0,-1,51.2501776,22.5193343
+146,"Lublin, Wigilijna",mieszkanie 4 pokojowe 80mkw ul Wigilijna 4,2000.0,80,51.2320695,22.5387107
+147,"Lublin, Czuby, Kryształowa 31",Mieszkanie na wynajem w atrakcyjnej dzielnicy,1600.0,39,-1.0,-1.0
+148,"Lublin, Wigilijna",mieszkanie 4 pokojowe 80mkw ul Wigilijna 4,2000.0,80,51.2320695,22.5387107
+149,"Lublin, Centrum, Szeligowskiego 8","Apart. z miejscem parking, z widokiem na Lublin",3150.0,54,-1.0,-1.0
+150,"Lublin,  Dolna Panny Marii",Luksusowy apartament 100m + garaż,4000.0,100,51.2425357,22.5606476
+151,"Lublin, okol. Uniwersytetu Medycznego",Apartament na Połnocnej!,1700.0,45,-1.0,-1.0
+152,"Lublin, Czechów, Górska","Wynajem, Czechów, 3 oddzielne pokoje, umeblowane!",1700.0,62,51.2677918,22.5550628
+153,"Lublin, LSM, Grażyny","3 pokoje na Lsm,10min od Miasteczka Akademickiego!",1700.0,56,51.2440985,22.524289
+154,"Lublin, Centrum","Mieszkanie, 49,46 m², Lublin",1700.0,49.46,52.0339822,23.1192263
+155,"Lublin, Rudnik",Mieszkanie Brzozowy Park ul. Bielskiego,1700.0,53,51.2876442,22.622535
+156,"Lublin, I Górka Sławinkowska","Mieszkanie, 59 m², Lublin",1700.0,59,-1.0,-1.0
+157,"Lublin, Centrum, Czechowska","Mieszkanie, 48 m², Lublin",1700.0,48,-1.0,-1.0
+158,"Lublin, Centrum, Północna","Mieszkanie, 45 m², Lublin",1700.0,45,-1.0,-1.0
+159,"Lublin, os. Unia","Przytulne mieszkanie 2 pok., Wieniawa",1700.0,57,51.2544444,22.5361111
+160,"Lublin, Sławinek, Chabrowa","Mieszkanie, 70 m², Lublin",1700.0,70,-1.0,-1.0
+161,"Lublin, Czechów Dolny, Ignacego Solarza","Mieszkanie, 63 m², Lublin",1700.0,63,-1.0,-1.0
+162,"Lublin, Czechów, Mieczysława Biernackiego","Mieszkanie, 54 m², Lublin",1700.0,54,-1.0,-1.0
+163,"Lublin, Sławin, Chabrowa","Wysoki standard, nowe, 70m2, Sławin, Eng",1700.0,70,51.2774354,22.503767
+164,"Lublin, Sławin, Juliusza Kleinera","Mieszkanie, 62 m², Lublin",1700.0,62,51.2738675,22.5056462
+165,"Lublin, Centrum","Mieszkanie, 30 m², Lublin",1700.0,30,52.0339822,23.1192263
+166,"Lublin, Centrum, Wschodnia","Mieszkanie, 70 m², Lublin",1700.0,70,52.03050635,23.11506965
+167,"Lublin, Centrum, Fryderyka Chopina","Mieszkanie, 51 m², Lublin",1700.0,51,52.0308325,23.1134420359092
+168,"Lublin, Ponikwoda, Cyprysowa","Mieszkanie, 53 m², Lublin",1700.0,53,51.2729167,22.5808842
+169,"Lublin, Rogatka Warszawska,  Baśniowa","Wynajmę mieszkanie 2 pokojowe po remoncie, Rogatka",1700.0,49,-1.0,-1.0
+170,"Lublin, Bazylianówka",Wynajmę,1700.0,53,51.2625344,22.5769461
+171,"Lublin, Centrum","Mieszkanie, 50 m², Lublin",1750.0,50,52.0339822,23.1192263
+172,"Lublin, Wrotków,  Ludwika Zalewskiego",Mieszkanie na Zalewskiego! Wynajmę!,1750.0,60,51.1964992,22.5447233
+173,"Lublin, Bazylianówka","Mieszkanie, 51 m², Lublin",1800.0,51,51.2625344,22.5769461
+174,"Lublin, okol. Politechniki","Mieszkanie, 52 m², Lublin",1800.0,52,-1.0,-1.0
+175,"Lublin, Czechów",Mieszkanie na wynajem blisko Um 1800,1800.0,44,51.2655556,22.5472222
+176,"Lublin, Wiśniowy Sad","Mieszkanie, 60 m², Lublin",1800.0,60,-1.0,-1.0
+177,"Lublin, Centrum","Mieszkanie, 48 m², Lublin",1800.0,48,52.0339822,23.1192263
+178,"Lublin,  Witolda Chodźki",2 pokoje komfort/2B apartment for rent ul. Chodzki,1800.0,55,51.2634382,22.562888
+179,"Lublin, Czechów Dolny","Mieszkanie, 57 m², Lublin",1800.0,57,51.2608333,22.5291667
+180,"Lublin, Dziesiąta","Mieszkanie, 100 m², Lublin",1800.0,100,51.2158786,22.5797114
+181,"Lublin, Centrum","Mieszkanie, 100 m², Lublin",1800.0,100,52.0339822,23.1192263
+182,"Lublin, Centrum","Mieszkanie, 60 m², Lublin",1800.0,60,52.0339822,23.1192263
+183,"Lublin, Czechów,  Józefa Mackiewicza",Nowe mieszkanie przy UM - Lublin ul. Mackiewicza,1800.0,55,51.2696677,22.5636821
+184,"Lublin, Węglinek",3 pokoje z garażem Czuby Węglinek,1800.0,58,51.2182476,22.4841711
+185,"Lublin, Śródmieście, I Armii Wojska Polskiego",*** 2 Pokoje *** Centrum *** Blisko Uczelni ***,1800.0,56,51.2489223,22.556028
+186,"Lublin, Czuby,  Bursztynowa","wynajmę mieszkanie 3-pokojowe, czuby, bursztynowa",1800.0,51.4,51.2228016,22.5176387
+187,"Lublin, Czechów Górny",Mieszkanie w pobliżu Uniwersytetu Medycznego,1800.0,56,51.2636111,22.5394445
+188,"Lublin, Czechów Dolny",Piękne mieszkanie na Czechowie,1800.0,60,51.2608333,22.5291667
+189,"Lublin, os. Nowowiejskiego","Mieszkanie, 51 m², Lublin",1800.0,51,51.2599085,22.5550712
+190,"Lublin, Centrum, Krakowskie Przedmieście","Mieszkanie, 50 m², Lublin",1800.0,50,-1.0,-1.0
+191,"Lublin, os. Zana","Mieszkanie, 70 m², Lublin",1800.0,70,-1.0,-1.0
+192,"Lublin, Dziesiąta","Mieszkanie, 90 m², Lublin",1800.0,90,51.2158786,22.5797114
+193,"Lublin, Śródmieście, Armi Wojska Polskiego","Mieszkanie, 56 m², Lublin",1800.0,56,-1.0,-1.0
+194,"Lublin, Śródmieście, Probostwo","Mieszkanie, 49 m², Lublin",1800.0,49,51.2526508,22.5680019
+195,"Lublin, Wieniawa, Szarych Szeregów","Mieszkanie, 51 m², Lublin",1800.0,51,51.2514908,22.5311022
+196,"Lublin, Centrum, Fryderyka Chopina","Mieszkanie, 65 m², Lublin",1800.0,65,52.0308325,23.1134420359092
+197,"Lublin, LSM, Grażyny","Mieszkanie, 56 m², Lublin",1800.0,56,51.2440985,22.524289
+198,"Lublin, Śródmieście, Orla","Mieszkanie, 74 m², Lublin",1800.0,74,51.2446238,22.5556897
+199,"Lublin, Śródmieście, Fryderyka Chopina","Mieszkanie, 55 m², Lublin",1800.0,55,51.2476408,22.5546405
+200,"Lublin, Ponikwoda, Porzeczkowa","Mieszkanie, 64 m², Lublin",1800.0,64,51.2677603,22.5794292
+201,"Lublin, Śródmieście, Głęboka","2 pokoje, 56 mkw, u;. Głęboka, piętro 1/4",1800.0,56,51.2392336,22.5516753
+202,"Lublin, Bronowice, Krańcowa","Mieszkanie, 34 m², Lublin",1800.0,34,51.2313076,22.5910202
+203,"Lublin, Centrum, Prusa",Super mieszkanie Centrum Prusa Um 2p. for rent Mul,1800.0,50,-1.0,-1.0
+204,Lublin,"Mieszkanie, 67 m², Lublin",1800.0,67,51.250559,22.5701022
+205,"Lublin, Sławin, Czarnieckiego","Mieszkanie, 68 m², Lublin",1800.0,68,-1.0,-1.0
+206,"Lublin, Czuby, Dziewanny","Mieszkanie, 60 m², Lublin",1800.0,60,51.235358,22.5145586
+207,"Lublin, Górki","Mieszkanie, 68,60 m², Lublin",1800.0,68.6,51.0743097,22.3725539
+208,"Lublin, Sławin",65m2 - 3 pokoje - parter - Sławin - super lokaliza,1800.0,65,51.2716239,22.5098266
+209,"Lublin, Czuby, Dziewanny","Mieszkanie, 59,60 m², Lublin",1800.0,59.6,51.235358,22.5145586
+210,"Lublin,  Leszka",Atrakcyjne mieszkanie 4pokojowe,1800.0,85,51.2496532,22.48824
+211,"Lublin, Centrum",Super nowe 2 pok do wynajęcia w centrum Chopina,1850.0,45,52.0339822,23.1192263
+212,"Lublin, Czechów, Józefa Mackiewicza","2 pokoje na Czechowie, wysoki standard, okazja",1850.0,40,51.2696677,22.5636821
+213,"Lublin, Śródmieście, Konopnicka",2 pokoje w centrum miasta dla wymagających!,1850.0,55,51.2438985,22.5552668
+214,"Lublin, Czechów, Józefa Mackiewicza","2 pokoje na Czechowie, 40m2, Mul, wysoki standard!",1850.0,40,51.2696677,22.5636821
+215,"Lublin, Śródmieście,  Zamkowy","Plac zamkowy, 2 pokoje, wolne od zaraz!",1850.0,51,-1.0,-1.0
+216,"Lublin, Rudnik, Laurowa",2 pokoje Rudnik,1300.0,48,51.2764783,22.5814438
+217,"Lublin, Wieniawa,  Legionowa","Nowe, umeblowane, bez opłat dodatkowych",1650.0,40,51.2506286,22.5318759
+218,"Lublin, Rogatka Warszawska,  Baśniowa","Wynajmę mieszkanie 2 pokojowe po remoncie, Rogatka",1700.0,49,-1.0,-1.0
+219,"Lublin, Bazylianówka, Dożynkowa","Wynajmę 3 pokoje, 64 m2, ul. Dożynkowa, Lublin.",1900.0,64,51.2767054,22.5839832
+220,"Lublin, Czechów Górny","Mieszkanie, 50 m², Lublin",1900.0,50,51.2636111,22.5394445
+221,"Lublin, Centrum",Atrakcyjne Mieszkanie W Centrum,1900.0,72,52.0339822,23.1192263
+222,"Lublin, LSM","Mieszkanie, 48 m², Lublin",1900.0,48,51.2416257,22.5293341
+223,"Lublin, Wieniawa",!Apartamentowiec Centrum Miasteczka Akademickiego!,1900.0,53.5,51.2499359,22.5371973
+224,"Lublin, Czechów Górny","Mieszkanie, 50 m², Lublin",1900.0,50,51.2636111,22.5394445
+225,"Lublin, Błonie","Mieszkanie, 65 m², Lublin",1900.0,65,52.1747664,23.3359734
+226,"Lublin, os. Konopnickiej",2 pokoje w Metropolitan Park w wysokim standardzie,1900.0,41,51.2365964,22.5254332
+227,"Lublin, Czechów Górny","Mieszkanie, 52 m², Lublin",1900.0,52,51.2636111,22.5394445
+228,"Lublin, Czechów Dolny","Mieszkanie, 54 m², Lublin",1900.0,54,51.2608333,22.5291667
+229,"Lublin, Czechów, Generała Augusta Fieldorfa","Mieszkanie, 50 m², Lublin",1900.0,50,51.2644638,22.5624246
+230,"Lublin, Kalinowszczyzna, Lwowska","Wynajem, Lublin, Perły Kaliny, 2011 rok, 2 pokoje",1900.0,50,51.2522527,22.5757621
+231,"Lublin, Czechów","Mieszkanie, 38 m², Lublin",1900.0,38,51.2655556,22.5472222
+232,"Lublin, Bazylianówka, Dożynkowa","3 pokoje, kameralne osiedle, ul. Dożynkowa, Ikea",1900.0,57,51.2767054,22.5839832
+233,"Lublin, Czechów, Generała Augusta Fieldorfa",Nowoczesne 2 pokojowe mieszkanie z garażem,1900.0,56,51.2644638,22.5624246
+234,"Lublin, Śródmieście, Hugo Kołłątaja","Mieszkanie w kamienicy, centrum miasta, 58m2, Eng",1900.0,58,-1.0,-1.0
+235,"Lublin, Śródmieście, Hugo Kołłątaja","Mieszkanie, 60 m², Lublin",1900.0,60,-1.0,-1.0
+236,"Lublin, Rudnik, Bluszczowa","Mieszkanie, 42 m², Lublin",1900.0,42,51.2775439,22.5878233
+237,"Lublin, Wrotków, Janowska","Mieszkanie, 96 m², Lublin",1900.0,96,-1.0,-1.0
+238,"Lublin, Śródmieście, Obrońców pokoju","Mieszkanie, 67 m², Lublin",1900.0,67,51.2449655,22.5468273
+239,"Lublin, Rury, Nadbystrzycka","Mieszkanie, 80 m², Lublin",1900.0,80,51.2381334,22.5508413
+240,"Lublin, Śródmieście, Graniczna","Mieszkanie, 68 m², Lublin",1900.0,68,51.2425394,22.5602459
+241,"Lublin, Wieniawa, Puławska","Mieszkanie, 63 m², Lublin",1900.0,63,51.2543518,22.5305424
+242,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 50 m², Lublin",1900.0,50,51.2696677,22.5636821
+243,"Lublin, Wieniawa, Legionowa","Mieszkanie, 49 m², Lublin",1900.0,49,51.2506286,22.5318759
+244,"Lublin, Rogatka Warszawska, Żołnierska","Mieszkanie, 65 m², Lublin",1900.0,65,-1.0,-1.0
+245,"Lublin, Wrotków, Jacka Woronieckiego","Mieszkanie, 54 m², Lublin",1900.0,54,51.1991426,22.5435132
+246,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 52 m², Lublin",1900.0,52,51.2696677,22.5636821
+247,"Lublin, Kalinowszczyzna, Niepodległości","Mieszkanie, 62 m², Lublin",1900.0,62,51.2580556,22.5925
+248,"Lublin, Czechów Górny","Mieszkanie, 50 m², Lublin",1910.0,50,51.2636111,22.5394445
+249,"Lublin, Czechów, Witolda Chodźki","Chodźki, Compas, Czechów blisko Um.",1950.0,49,51.2640338,22.5625247
+250,"Lublin, Czechów, Józefa Mackiewicza","Czechów, 2 pokoje, 50m2, apartament, od zaraz!",1950.0,50,51.2696677,22.5636821
+251,"Lublin, Czechów Górny","Mieszkanie, 41 m², Lublin",1950.0,41,51.2636111,22.5394445
+252,"Lublin, Centrum, Krakowskie Przedmieście","Mieszkanie, 36 m², Lublin",1950.0,36,-1.0,-1.0
+253,"Lublin, Centrum, Krakowskie Przedmieście","Mieszkanie, 33 m², Lublin",1950.0,33,-1.0,-1.0
+254,"Lublin, Czechów, Jana Sapiehy","Duże 3 pokoje na Czechowie, bardzo blisko Um!",1950.0,63,-1.0,-1.0
+255,"Lublin, Centrum","Mieszkanie, 63,61 m², Lublin",1950.0,63.61,52.0339822,23.1192263
+256,"Lublin, Czechów","Mieszkanie, 77 m², Lublin",1950.0,77,51.2655556,22.5472222
+257,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 37 m², Lublin",1950.0,37,51.2696677,22.5636821
+258,"Lublin, Czechów","Mieszkanie, 42 m², Lublin",1950.0,42,51.2655556,22.5472222
+259,"Lublin, Śródmieście, Weteranów","Mieszkanie, 75 m², Lublin",1950.0,75,-1.0,-1.0
+260,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 40 m², Lublin",1950.0,40,51.2696677,22.5636821
+261,"Lublin, Lublin, Sielankowa","Mieszkanie, 72 m², Lublin",1950.0,72,51.2527057,22.5212518
+262,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 39 m², Lublin",1950.0,39,51.2696677,22.5636821
+263,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 40 m², Lublin",1950.0,40,51.2696677,22.5636821
+264,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 39 m², Lublin",1950.0,39,51.2696677,22.5636821
+265,"Lublin, Czechów, Szeligowskiego","Mieszkanie, 38 m², Lublin",1950.0,38,51.2672635,22.5583604
+266,"Lublin, Willowa",____ Eleganckie pod wynajem____,1950.0,64,51.2679786,22.5126335
+267,"Lublin, Błonie",Mieszkanie z pięknym widokiem! Blisko Uczelni!,1990.0,63,52.1747664,23.3359734
+268,"Lublin, Ponikwoda, Ignacego Czumy",***2 Pokoje***Garaż***,1999.0,60,51.2721526,22.5785414
+269,"Lublin, Ponikwoda, Ignacego Czumy",Ponikwoda Bazylianówka mieszkanie z ogrodem.,1999.0,68,51.2721526,22.5785414
+270,"Lublin, Czechów Górny,  Ignacego Czumy","Przestronne, atrakcyjne i zadbane mieszkanie !",1999.0,68,-1.0,-1.0
+271,Lublin,Miasteczko Akademickie - dla 5 osób. 90m2,2000.0,90,51.250559,22.5701022
+272,"Lublin, LSM","Lublin, Lsm, Sunhill",2000.0,48,51.2416257,22.5293341
+273,"Lublin, Centrum","Mieszkanie, 54 m², Lublin",2000.0,54,52.0339822,23.1192263
+274,"Lublin, Wiśniowy Sad","Mieszkanie, 55 m², Lublin",2000.0,55,-1.0,-1.0
+275,"Lublin, Węglin, Białostocka","Mieszkanie, 90 m², Lublin",2000.0,90,51.2269664,22.5026058
+276,"Lublin, Wrotków, Janowska","3 pokoje, Wrotków",2000.0,93,-1.0,-1.0
+277,"Lublin, Kalinowszczyzna, Lwowska","Mieszkanie do wynajęcia ul. Lwowska, 2pok.",2000.0,49.5,51.2522527,22.5757621
+278,"Lublin, Centrum",Apartament bez żadnych dodatkowych opłat!!!,2000.0,42,52.0339822,23.1192263
+279,"Lublin, Centrum",Zamieszkaj w sercu Lublina!,2000.0,44,52.0339822,23.1192263
+280,"Lublin, Czechów Dolny","Mieszkanie 4 pokoje, Czechów Dolny",2000.0,62.2,51.2608333,22.5291667
+281,"Lublin, Śródmieście, Środkowa",*** Po Remoncie * Tylko U Nas ***,2000.0,64,51.242207,22.5583404
+282,"Lublin, Centrum, Krakowskie Przedmieście","Mieszkanie, 56 m², Lublin",2000.0,56,-1.0,-1.0
+283,"Lublin, Centrum","Czteropokojowe, umeblowane, Centrum",2000.0,102,52.0339822,23.1192263
+284,"Lublin, Centrum",Super Mieszkanie w centrum! Rent Mul Um,2000.0,40,52.0339822,23.1192263
+285,"Lublin, Bronowice",Do wynajęcia 3 pokoje w nowym budownictwie,2000.0,60,51.2358736,22.5851494
+286,"Lublin, Miasteczko Akademickie","Mieszkanie, 55,40 m², Lublin",2000.0,55.4,51.2466616,22.5423062
+287,"Lublin, Węglinek","Nowe budownictwo, garaż w cenie, wysoki standard",2000.0,55.6,51.2182476,22.4841711
+288,"Lublin, Wieniawa,  Legionowa","Nowe, umeblowane, bez opłat dodatkowych",1650.0,40,51.2506286,22.5318759
+289,"Lublin, Centrum, Szeligowskiego 8","Apart. z miejscem parking, z widokiem na Lublin",3150.0,54,-1.0,-1.0
+290,"Lublin,  Dolna Panny Marii",Luksusowy apartament 100m + garaż,4000.0,100,51.2425357,22.5606476
+291,"Lublin, Czuby","Mieszkanie z duszą, dla osób osób z wyobraźnią!",2000.0,64,51.2285398,22.5209437
+292,"Lublin, Centrum","Mieszkanie, 75 m², Lublin",2000.0,75,52.0339822,23.1192263
+293,"Lublin, Śródmieście",Apartament Centrum,2000.0,35,51.2472348,22.5555465
+294,"Lublin, Centrum",Idealne mieszkanie pod wynajem!,2000.0,60.65,52.0339822,23.1192263
+295,"Lublin, Śródmieście",Mieszkanie dwupokojowe dla profesjonalisty,2000.0,35,51.2472348,22.5555465
+296,"Lublin, Centrum, Boczna Lubomelskiej","Komfortowy apartament z garażem, Lublin Centrum",2000.0,35,-1.0,-1.0
+297,"Lublin, Bronowice",Do wynajęcia 3 pokoje w nowym budownictwie,2000.0,60,51.2358736,22.5851494
+298,"Lublin, Miasteczko Akademickie","Mieszkanie, 55,40 m², Lublin",2000.0,55.4,51.2466616,22.5423062
+299,"Lublin, Czuby","Mieszkanie, 60 m², Lublin",2000.0,60,51.2285398,22.5209437
+300,"Lublin, Centrum",Super Mieszkanie w centrum! Rent Mul Um,2000.0,40,52.0339822,23.1192263
+301,"Lublin, Centrum","Czteropokojowe, umeblowane, Centrum",2000.0,102,52.0339822,23.1192263
+302,"Lublin, Śródmieście, Niecała","Mieszkanie, 46 m², Lublin",2000.0,46,51.2511754,22.560845
+303,"Lublin, Wieniawa, Puławska","Mieszkanie, 84 m², Lublin",2000.0,84,51.2543518,22.5305424
+304,"Lublin, Rudnik, Konrada Bielskiego","Mieszkanie, 58 m², Lublin",2000.0,58,51.2727582,22.5767295
+305,"Lublin, Śródmieście, Hugo Kołłątaja","Mieszkanie, 65 m², Lublin",2000.0,65,-1.0,-1.0
+306,"Lublin, Rury, Jana Sawy","Mieszkanie, 70 m², Lublin",2000.0,70,51.2390918,22.5250551
+307,"Lublin, Śródmieście, Staszica","Mieszkanie, 75 m², Lublin",2000.0,75,51.2503267,22.5633276
+308,"Lublin, Czuby, Szczytowa","Mieszkanie, 64 m², Lublin",2000.0,64,51.2221594,22.5354982
+309,"Lublin, Ponikwoda,  Bazylianówka","68 mkw.Bazylianówka,kompletnie i luksus.urządzone",2000.0,68,51.2625344,22.5769461
+310,"Lublin, LSM, Skrzetuskiego","Mieszkanie, 62 m², Lublin",2000.0,62,51.2394001,22.5139101
+311,"Lublin, Czuby, Jaspisowa","Mieszkanie, 66 m², Lublin",2000.0,66,-1.0,-1.0
+312,"Lublin, Centrum","Mieszkanie, 35 m², Lublin",2000.0,35,52.0339822,23.1192263
+313,"Lublin, Czechów, Witolda Chodźki","Mieszkanie, 49 m², Lublin",2000.0,49,51.2640338,22.5625247
+314,"Lublin, Bazylianówka, Ignacego Czumy","Mieszkanie, 68 m², Lublin",2000.0,68,51.2721526,22.5785414
+315,"Lublin, Śródmieście, Boczna Lubomelskiej","Mieszkanie, 35 m², Lublin",2000.0,35,-1.0,-1.0
+316,"Lublin, Świt","Mieszkanie, 69 m², Lublin",2000.0,69,51.2106098,22.6791899
+317,"Lublin, Śródmieście","Mieszkanie na wynajem 57m2, Probostwo blisko Um, 2",2000.0,57,51.2472348,22.5555465
+318,"Lublin, Wieniawa","Mieszkanie, 45 m², Lublin",2000.0,45,51.2499359,22.5371973
+319,"Lublin, Wieniawa",Mieszkanie w ścisłym centrum miasta do wynajęcia.,2000.0,35,51.2499359,22.5371973
+320,"Lublin, okol. Uniwersytetu Medycznego",3 pokojowe mieszkanie ul. Północna street Mul 2/3B,2050.0,75,-1.0,-1.0
+321,"Lublin, LSM, Pana Balcera","Mieszkanie, 56,50 m², Lublin",2050.0,56.5,51.2375055,22.5242291
+322,"Lublin, Rury Wizytkowskie,  Kredowa",Przy Politechnice,2100.0,79,-1.0,-1.0
+323,"Lublin, Śródmieście, Konopnicka",*** 2 Pokoje *** Super Lokalizacja *** Centrum ***,2100.0,54.5,51.2438985,22.5552668
+324,"Lublin, Centrum",Nowe mieszkanie Centrum For rent 2 pok. 3 maja Mul,2100.0,30,52.0339822,23.1192263
+325,"Lublin, Czechów, Rotmistrza Witolda Pileckiego","Mieszkanie, 65,60 m², Lublin",2100.0,65.6,51.2648223,22.5637579
+326,"Lublin, Ponikwoda, Czesława Strzeszewskiego","Mieszkanie, 50 m², Lublin",2100.0,50,51.2743457,22.5813175
+327,"Lublin, Czechów Dolny","Mieszkanie, 50 m², Lublin",2100.0,50,51.2608333,22.5291667
+328,"Lublin, Czechów Górny, Organowa",Mieszkanie blisko Uniwersytetu Medycznego,2100.0,62.5,51.2590656,22.5582694
+329,"Lublin, okol. Politechniki","Mieszkanie, 60 m², Lublin",2100.0,60,-1.0,-1.0
+330,"Lublin, Helenów","Nowoczesne mieszkanie, 2 pok., Konstantynów",2100.0,42,51.2520789,22.5192132
+331,"Lublin, Dziesiąta","Mieszkanie, 120 m², Lublin",2100.0,120,51.2158786,22.5797114
+332,"Lublin, Centrum","Mieszkanie, 50 m², Lublin",2100.0,50,52.0339822,23.1192263
+333,"Lublin, os. Konopnickiej","Mieszkanie, 58 m², Lublin",2100.0,58,51.2365964,22.5254332
+334,"Lublin, Czechów, Szeligowskiego","Mieszkanie, 38 m², Lublin",2100.0,38,51.2672635,22.5583604
+335,"Lublin, Rudnik, Dożynkowa","Mieszkanie, 55 m², Lublin",2100.0,55,51.280802,22.6038125
+336,"Lublin, Unicka",*Apartament w centrum miasta*,2100.0,53,51.256428,22.575168
+337,"Lublin, Czechów Dolny","Mieszkanie, 50 m², Lublin",2100.0,50,51.2608333,22.5291667
+338,"Lublin, Botanik",wygodne mieszkanie na wynajem Botanik,2100.0,65,51.267094,22.52233
+339,"Lublin, Botanik, Osikowa","Mieszkanie, 90 m², Lublin",2100.0,90,-1.0,-1.0
+340,"Lublin, Unicka",*Apartament w centrum miasta*,2100.0,53,51.256428,22.575168
+341,"Lublin, Miasteczko Akademickie","2 pokoje na Wieniawie, wysoki standard! 50 mkw!",2100.0,50,51.2466616,22.5423062
+342,"Lublin, Czechów Dolny","Mieszkanie, 54 m², Lublin",2150.0,54,51.2608333,22.5291667
+343,"Lublin, Czuby",Duże 3 pokojowe mieszkanie do wynajęcia 86 mkw,2150.0,86,51.2285398,22.5209437
+344,"Lublin, Centrum","Mieszkanie, 42 m², Lublin",2200.0,42,52.0339822,23.1192263
+345,"Lublin, Sławinek, Sielankowa","Mieszkanie, 71 m², Lublin",2200.0,71,51.2501776,22.5193343
+346,"Lublin, Kalinowszczyzna","Mieszkanie, 50 m², Lublin",2200.0,50,51.2548082,22.5861517
+347,"Lublin, Centrum","Mieszkanie, 36 m², Lublin",2200.0,36,52.0339822,23.1192263
+348,"Lublin, Centrum, Niecała",Super Kawalerka w centrum! Niecała for rent Mul Um,2200.0,36,-1.0,-1.0
+349,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 54,50 m², Lublin",2200.0,54.5,-1.0,-1.0
+350,"Lublin, Centrum",Luksusowe mieszkanie w samym centrum!!!,2200.0,70,52.0339822,23.1192263
+351,"Lublin, Śródmieście","Mieszkanie, 35 m², Lublin",2200.0,35,51.2472348,22.5555465
+352,"Lublin, Śródmieście, Niecała","Mieszkanie, 36 m², Lublin",2200.0,36,51.2511754,22.560845
+353,"Lublin, Centrum",Apartament w Centrum wysoki standard,2200.0,57,52.0339822,23.1192263
+354,"Lublin, Centrum","Mieszkanie, 60 m², Lublin",2200.0,60,52.0339822,23.1192263
+355,"Lublin, Centrum, Boczna Lubomelskiej",Comfortable new apartment in the city center,2200.0,65,-1.0,-1.0
+356,"Lublin, Centrum",Apartament w Centrum wysoki standard,2200.0,57,52.0339822,23.1192263
+357,"Lublin, Ponikwoda","Mieszkanie, 68,80 m², Lublin",2200.0,68.8,51.2658578,22.5910126
+358,"Lublin, Centrum",Apartament w Centrum wysoki standard,2200.0,57,52.0339822,23.1192263
+359,"Lublin, Śródmieście, Sapiehy","Mieszkanie, 63 m², Lublin",2200.0,63,51.2600926,22.5715701
+360,"Lublin, Rudnik, Laurowa",2 pokoje Rudnik,1300.0,48,51.2764783,22.5814438
+361,"Lublin, LSM,  Pielgrzymia","2-pokojowe mieszkanie, Lublin Lsm, ul. Pielgrzymia",1500.0,44,-1.0,-1.0
+362,"Lublin, Centrum, Szeligowskiego 8","Apart. z miejscem parking, z widokiem na Lublin",3150.0,54,-1.0,-1.0
+363,"Lublin, Czechów, Stanisława Szpinalskiego","Mieszkanie, 69 m², Lublin",2200.0,69,51.2736016,22.5512757
+364,"Lublin, Śródmieście, Sapiehy","Mieszkanie, 63 m², Lublin",2200.0,63,51.2600926,22.5715701
+365,"Lublin, Kalinowszczyzna, Niepodległości","Mieszkanie, 100 m², Lublin",2200.0,100,51.2580556,22.5925
+366,"Lublin, Centrum, Krucza","Mieszkanie, 101 m², Lublin",2200.0,101,-1.0,-1.0
+367,"Lublin, Śródmieście, Jana Sapiehy","Mieszkanie, 62,50 m², Lublin",2250.0,62.5,51.2600926,22.5715701
+368,"Lublin, Czechów, Milenijna","Mieszkanie 4 pokoje ul. Milenijna, blisko Um",2250.0,70,51.2624479,22.5565987
+369,"Lublin, Czechów Dolny",Mieszkanie czteropokojowe w nowym buduownictwie,2250.0,67.8,51.2608333,22.5291667
+370,"Lublin, LSM, Nałęczowska",Nowe Komfortowe 2pok. blisko centrum for rent klim,2300.0,42,51.2491969,22.5185551
+371,"Lublin, Centrum",3 pokoje w Centrum,2300.0,63,52.0339822,23.1192263
+372,"Lublin, Czechów, Lawinowa","Mieszkanie, 60 m², Lublin",2300.0,60,51.266505,22.5520498
+373,"Lublin, Czechów Dolny","Mieszkanie, 57 m², Lublin",2300.0,57,51.2608333,22.5291667
+374,"Lublin, Śródmieście, Czechowska",Śródmieście Internet i garaż w cenie,2300.0,72,51.2523099,22.5522465
+375,"Lublin, Czechów Górny, Lawinowa",Czechów Górny blisko AM Chodźki Auchan RENT apartm,2300.0,60,51.266505,22.5520498
+376,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 64 m², Lublin",2300.0,64,-1.0,-1.0
+377,"Lublin, Czechów Dolny","Mieszkanie, 56 m², Lublin",2300.0,56,51.2608333,22.5291667
+378,"Lublin, Stare Miasto","Mieszkanie, 36,74 m², Lublin",2300.0,36.74,51.2473485,22.5688414
+379,"Lublin, Śródmieście, Graniczna",Zadbane mieszkanie do wynajęcia!,2300.0,68,51.2425394,22.5602459
+380,"Lublin, Centrum","Mieszkanie, 90 m², Lublin",2300.0,90,52.0339822,23.1192263
+381,"Lublin, Czechów",Czechów 3 pokoje 60m2 - blisko U.M. ul.Lawinowa,2300.0,60,51.2655556,22.5472222
+382,"Lublin, os. Konopnickiej",Metropolitan mieszkanie do wynajęcia,2300.0,58,51.2365964,22.5254332
+383,"Lublin, Bazylianówka, Dymowskiego","Mieszkanie, 52 m², Lublin",2300.0,52,-1.0,-1.0
+384,"Lublin, LSM, Pana Balcera","Mieszkanie, 58 m², Lublin",2300.0,58,51.2375055,22.5242291
+385,"Lublin, Śródmieście, Głęboka","Mieszkanie, 48 m², Lublin",2300.0,48,51.2392336,22.5516753
+386,"Lublin, Wieniawa, Legionowa","Mieszkanie, 87 m², Lublin",2300.0,87,51.2506286,22.5318759
+387,"Lublin, Abramowice, Ludwika Zamenhofa","Mieszkanie, 100 m², Lublin",2300.0,100,51.2005631,22.5832863
+388,"Lublin, Centrum, 3-Maja","Mieszkanie, 40 m², Lublin",2300.0,40,-1.0,-1.0
+389,"Lublin, Centrum",Centrum 3 pokojowe mieszkanie na wynajem,2300.0,68,52.0339822,23.1192263
+390,"Lublin, Rogatka Warszawska, Puławska","Mieszkanie, 57 m², Lublin",2350.0,57,-1.0,-1.0
+391,"Lublin, Czechów, Organowa",Organowa Uniwersytet Medyczny Czechów,2399.0,62.5,51.2590656,22.5582694
+392,"Lublin, Centrum","Mieszkanie, 40 m², Lublin",2400.0,40,52.0339822,23.1192263
+393,"Lublin, Śródmieście, Szewska","Szewska, Śródmieście, Centrum + msc. parkingowe",2400.0,40,51.2507778,22.565041
+394,"Lublin, os. Zana, Pana Balcera","Mieszkanie, 58 m², Lublin",2400.0,58,-1.0,-1.0
+395,"Lublin, Ponikwoda, Laurowa ",Nowoczesne dwupoziomowe mieszkanie na wynajem,2400.0,70,51.2764783,22.5814438
+396,"Lublin, Centrum",Super mieszkanie centrum Szewska Staszica for rent,2400.0,40,52.0339822,23.1192263
+397,"Lublin, Węglin",Super Nowe 3 pokojowe mieszkanie wysoki standard!,2400.0,60,51.2313889,22.4916667
+398,"Lublin, LSM, Pana Balcera",***Nowe *** Prestiżowe ***,2400.0,58,51.2375055,22.5242291
+399,"Lublin, Śródmieście, Ogrodowa","3 pokoje, 80m2, ul. Ogrodowa, Centrum Śródmieście",2400.0,80,51.2498996,22.5560753
+400,"Lublin, Śródmieście, Krucza","Mieszkanie, 100 m², Lublin",2400.0,100,51.2436904,22.5556555
+401,"Lublin, Sławinek",Nowe 3 pok. mieszkanie blisko centrum z garażem !,2400.0,75,51.2562379,22.5198078
+402,"Lublin, os. Konopnickiej","Mieszkanie, 58 m², Lublin",2400.0,58,51.2365964,22.5254332
+403,"Lublin, Sławinek, Sielankowa","Mieszkanie, 71 m², Lublin",2400.0,71,51.2501776,22.5193343
+404,"Lublin, os. Nowowiejskiego","Atrakcyjne mieszkanie, 3 pok. ok. Um",2400.0,62.5,51.2599085,22.5550712
+405,"Lublin, Czechów, Organowa","Mieszkanie, 72 m², Lublin",2400.0,72,51.2590656,22.5582694
+406,"Lublin, Wieniawa, Skautów","Mieszkanie, 68 m², Lublin",2400.0,68,51.2548382,22.5352818
+407,"Lublin, Centrum","Mieszkanie, 80 m², Lublin",2400.0,80,52.0339822,23.1192263
+408,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 80 m², Lublin",2450.0,80,-1.0,-1.0
+409,"Lublin, os. Nowowiejskiego","Mieszkanie, 72 m², Lublin",2450.0,72,51.2599085,22.5550712
+410,"Lublin, Śródmieście",Duże 3 pok. mieszkanie 72m2 do wynajęcia Organowa,2450.0,72,51.2472348,22.5555465
+411,"Lublin, Centrum, Niecała","Mieszkanie, 76 m², Lublin",2450.0,76,-1.0,-1.0
+412,"Lublin, Botanik","Mieszkanie, 65 m², Lublin",2500.0,65,51.267094,22.52233
+413,"Lublin, Centrum","Mieszkanie, 85 m², Lublin",2500.0,85,52.0339822,23.1192263
+414,"Lublin, Śródmieście","Mieszkanie, 42 m², Lublin",2500.0,42,51.2472348,22.5555465
+415,"Lublin, LSM, Pana Balcera",***Nowe *** Prestiżowe ***,2500.0,41,51.2375055,22.5242291
+416,"Lublin, Centrum, Ogrodowa",Super mieszkanie centrum ogrodowa for rent Mul Um,2500.0,78,52.0330506,23.1295906
+417,"Lublin, Centrum",3 pokojowe mieszkanie w centrum wysoki standard!,2500.0,81,52.0339822,23.1192263
+418,"Lublin, Dziesiąta","Mieszkanie, 100 m², Lublin",2500.0,100,51.2158786,22.5797114
+419,"Lublin, Wieniawa",Atrakcyjne mieszkanie na wynajem!,2500.0,70,51.2499359,22.5371973
+420,"Lublin, Śródmieście, 3 Maja",Mieszkanie w centrum miasta w wysokim standardzie,2500.0,46,51.2497333,22.558225
+421,"Lublin, Dziesiąta","Mieszkanie, 100 m², Lublin",2500.0,100,51.2158786,22.5797114
+422,"Lublin, Centrum","3 pokoje rozkładowe, bezpośrednio przy Umcs,Kul,Up",2500.0,71.5,52.0339822,23.1192263
+423,"Lublin, os. 40-lecia","Mieszkanie, 92 m², Lublin",2500.0,92,50.5368694,22.7253748
+424,"Lublin, Centrum",Super Nowe mieszkanie 49 m2 centrum For Rent Mul,2500.0,49,52.0339822,23.1192263
+425,"Lublin, LSM, Pana Balcera",Metropolitan Widok na miasto + parking + siłownia,2500.0,41,51.2375055,22.5242291
+426,"Lublin, Centrum","Mieszkanie, 97,20 m², Lublin",2500.0,97.2,52.0339822,23.1192263
+427,"Lublin, os. Nowowiejskiego, Organowa",3-bedroom apartment near Medical University Lublin,2500.0,66,-1.0,-1.0
+428,"Lublin, Czechów",Mieszkanie dwupoziomowe 110 mkw,2500.0,110,51.2655556,22.5472222
+429,"Lublin, Centrum,  Stanisława Leszczyńskiego",Super apartament przy Ogrodzie Saskim z garażem,2500.0,58,-1.0,-1.0
+430,"Lublin, Śródmieście","Apartament do wynajęcia, Śródmiescie",2500.0,72,51.2472348,22.5555465
+431,"Lublin, Centrum",Apartament w Centrum wysoki standard,2500.0,70,52.0339822,23.1192263
+432,"Lublin, Tatary,  Gospodarcza",Dwupokojowe mieszkanie Lublin Tatary,900.0,34,51.2434573,22.5978698
+433,"Lublin, Abramowice,  Spadochroniarzy",wynajmę mieszkanie 50 m2,1200.0,50,-1.0,-1.0
+434,"Lublin, Czuby, Kryształowa 31",Mieszkanie na wynajem w atrakcyjnej dzielnicy,1600.0,39,-1.0,-1.0
+435,"Lublin, Centrum","Mieszkanie, 97,20 m², Lublin",2500.0,97.2,52.0339822,23.1192263
+436,"Lublin, Śródmieście",Mieszkanie 3 pokoje Wiktoryn ul. Dolińskiego,2500.0,54,51.2472348,22.5555465
+437,"Lublin, LSM, Jana Sawy",Apartamentowiec z widokiem na park cena z opłatami,2500.0,71,51.2390918,22.5250551
+438,"Lublin, Centrum,  Stanisława Leszczyńskiego",Super apartament przy Ogrodzie Saskim z garażem,2500.0,58,-1.0,-1.0
+439,"Lublin, Czechów",Mieszkanie dwupoziomowe 110 mkw,2500.0,110,51.2655556,22.5472222
+440,"Lublin, Centrum",Apartament w Centrum wysoki standard,2500.0,70,52.0339822,23.1192263
+441,"Lublin, Centrum, Dolińskiego",Nowe 3pok Unicka Wiktoryn od zaraz for rent Mul,2500.0,53,-1.0,-1.0
+442,"Lublin, LSM, Pana Balcera",Nowe Metropolitan Pana Balcera Lsm wysoki standard,2500.0,41,51.2375055,22.5242291
+443,"Lublin, os. Nowowiejskiego, Organowa",3-bedroom apartment near Medical University Lublin,2500.0,66,-1.0,-1.0
+444,"Lublin, Węglinek, Kryształowa","Mieszkanie, 67 m², Lublin",2500.0,67,51.2231532,22.4992823
+445,"Lublin, Wieniawa, Leszczyńskiego","Mieszkanie, 38 m², Lublin",2500.0,38,51.2508257,22.5455014
+446,"Lublin, Centrum, Ochotnicza","Mieszkanie, 73 m², Lublin",2500.0,73,-1.0,-1.0
+447,"Lublin, Rogatka Warszawska, Sielankowa","Mieszkanie, 75 m², Lublin",2500.0,75,-1.0,-1.0
+448,"Lublin, Botanik, Kasztelańska","Mieszkanie, 46 m², Lublin",2500.0,46,-1.0,-1.0
+449,"Lublin, Botanik, Kasztelańska","Mieszkanie, 46 m², Lublin",2500.0,46,-1.0,-1.0
+450,"Lublin, Czechów Górny, Józefa Śliwińskiego","Mieszkanie, 68,40 m², Lublin",2500.0,68.4,51.2732021,22.5544554
+451,"Lublin, Konstantynów, Aleja Kraśnicka","Mieszkanie, 165 m², Lublin",2500.0,165,51.2437876,22.5096576
+452,"Lublin, Rury, Wileńska","Mieszkanie, 55 m², Lublin",2500.0,55,51.2443155,22.5237215
+453,"Lublin, Czechów Górny, Północna","Mieszkanie, 84 m², Lublin",2500.0,84,51.2563418,22.5414618
+454,"Lublin, Czechów, Radzyńska","Mieszkanie, 58 m², Lublin",2500.0,58,51.2598541,22.5500036
+455,"Lublin, Węglin, Poznańska","Mieszkanie, 120 m², Lublin",2500.0,120,51.2322931,22.498743
+456,"Lublin, Centrum",Super mieszkanie w centrym! 72m2 for rent Mul,2500.0,72,52.0339822,23.1192263
+457,"Lublin, Rogatka Warszawska, Żołnierska","Mieszkanie, 50 m², Lublin",2500.0,50,-1.0,-1.0
+458,"Lublin, Centrum","Mieszkanie, 76 m², Lublin",2500.0,76,52.0339822,23.1192263
+459,"Lublin, Rogatka Warszawska,  gen. Władysława Sikorskiego","Mieszkanie, 73 m², Lublin",2500.0,73,-1.0,-1.0
+460,"Lublin, Centrum","Mieszkanie, 70 m², Lublin",2600.0,70,52.0339822,23.1192263
+461,"Lublin, Sławinek","Mieszkanie, 75 m², Lublin",2600.0,75,51.2562379,22.5198078
+462,"Lublin, Śródmieście, Okopowa","Mieszkanie, 85 m², Lublin",2600.0,85,51.2447272,22.5584675
+463,"Lublin, Śródmieście, Gustawa Dolińskiego",Mieszkanie dwupokojowe z salonem - Wiktoryn,2600.0,55,51.2580093,22.5746857
+464,"Lublin, Czechów Górny","Mieszkanie, 67 m², Lublin",2600.0,67,51.2636111,22.5394445
+465,"Lublin, Centrum","Mieszkanie, 80 m², Lublin",2600.0,80,52.0339822,23.1192263
+466,"Lublin, Śródmieście, Tadeusza Dymowskiego","Mieszkanie, 54 m², Lublin",2600.0,54,-1.0,-1.0
+467,"Lublin, Centrum","Mieszkanie, 78 m², Lublin",2600.0,78,52.0339822,23.1192263
+468,"Lublin, Śródmieście","Mieszkanie, 84 m², Lublin",2600.0,84,51.2472348,22.5555465
+469,"Lublin, Centrum","Mieszkanie w samym centrum Lublina, ul. Cicha",2600.0,74,52.0339822,23.1192263
+470,"Lublin, Centrum, Prymasa Stefana Wyszyńskiego",Klimatyczne mieszkanie z antresolą! Hit!,2600.0,60,-1.0,-1.0
+471,"Lublin, okol. Uniwersytetu Medycznego","Komfortowe mieszkanie, Śródmieście,ok. Um",2600.0,53,-1.0,-1.0
+472,"Lublin, Śródmieście, Fryderyka Chopina","Mieszkanie, 90 m², Lublin",2600.0,90,51.2476408,22.5546405
+473,"Lublin, okol. Uniwersytetu Medycznego",Trzypokojowe mieszkanie na osiedlu Wiktoryn,2600.0,60,-1.0,-1.0
+474,"Lublin, Centrum, Dolińskiego",Nowe duże 3 pok. Unicka Wiktoryn for rent Mul 60m2,2600.0,60,-1.0,-1.0
+475,"Lublin, Centrum",DO WYNAJECIA PIEKNE MIESZKANIE W CENTRUM MIASTA! K,2700.0,58,52.0339822,23.1192263
+476,"Lublin, Centrum","Mieszkanie, 70 m², Lublin",2700.0,70,52.0339822,23.1192263
+477,"Lublin, Węglinek",Dwupoziomowe klimatyczne na Czubach,2700.0,58.9,51.2182476,22.4841711
+478,"Lublin, Śródmieście","Mieszkanie, 104 m², Lublin",2700.0,104,51.2472348,22.5555465
+479,"Lublin, Wieniawa,  Racławickie",Mieszkanie 4 pokoje blisko centrum,2700.0,103,51.2509612,22.5289982
+480,"Lublin, Ponikwoda, Aroniowa",*Kameralny budynek*tylko 4 lokale*garaże w cenie*,2700.0,120,51.2658521,22.5798363
+481,"Lublin, Centrum","Mieszkanie, 106 m², Lublin",2700.0,106,52.0339822,23.1192263
+482,"Lublin, Ponikwoda, Aroniowa",*Kameralny budynek*tylko 4 lokale*garaże w cenie*,2700.0,120,51.2658521,22.5798363
+483,"Lublin, okol. Uniwersytetu Medycznego","Salon + 2 sypialnie,komfortowe,Śródmieście",2800.0,60,-1.0,-1.0
+484,"Lublin, Śródmieście, Unicka",Nowe mieszkanie z garażem,2800.0,53,51.2582975,22.5726557
+485,"Lublin, Centrum, Graniczna",Super 75m2 3pok. centrum Narutowicza Graniczna,2800.0,75,-1.0,-1.0
+486,"Lublin, Czechów Górny","Salon + 2 sypialnie, Czechów, ok. Auchan",2800.0,64,51.2636111,22.5394445
+487,"Lublin, Centrum, Unicka",komfortowe centrum unicka wiktoryn for rent Mul Um,2800.0,53,-1.0,-1.0
+488,"Lublin, Śródmieście, Gustawa Dolińskiego",Wiktoryn Chodźki Unicka blisko Um,2800.0,60,51.2580093,22.5746857
+489,"Lublin, okol. Uniwersytetu Medycznego","Komfortowy apartament, Śródmieście, ok. Um",2800.0,53,-1.0,-1.0
+490,"Lublin, Śródmieście, Niecała","Mieszkanie, 80 m², Lublin",2800.0,80,51.2511754,22.560845
+491,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 53 m², Lublin",2800.0,53,-1.0,-1.0
+492,"Lublin, Bazylianówka, Gustawa Dolińskiego","Mieszkanie, 59 m², Lublin",2800.0,59,-1.0,-1.0
+493,"Lublin, Czechów, Kurantowa","Mieszkanie, 62,20 m², Lublin",2800.0,62.2,51.2608658,22.5426669
+494,"Lublin, Stare Miasto, Rynek",Apartament Stare Miasto,2800.0,67,51.24780955,22.5675328021686
+495,"Lublin, Rogatka Warszawska","Mieszkanie, 70 m², Lublin",2800.0,70,51.2514068,22.5283868
+496,"Lublin, Śródmieście, Solna",Ciche mieszkanie w ścisłym centrum,2800.0,105,51.2446879,22.5551369
+497,"Lublin, Czuby","Mieszkanie, 70 m², Lublin",2800.0,70,51.2285398,22.5209437
+498,"Lublin, Czechów, Doktora Witolda Chodźki","Mieszkanie, 61,50 m², Lublin",2800.0,61.5,51.2640338,22.5625247
+499,"Lublin, Śródmieście, 3 Maja","Mieszkanie, 100 m², Lublin",2800.0,100,51.2497333,22.558225
+500,"Lublin, Dziesiąta, Ksawerego Dunikowskiego","Mieszkanie, 75 m², Lublin",2800.0,75,51.2148914,22.5713589
+501,"Lublin, Kalinowszczyzna, Unicka","Mieszkanie, 53 m², Lublin",2800.0,53,51.256428,22.575168
+502,"Lublin, Wieniawa","Mieszkanie, 105 m², Lublin",2800.0,105,51.2499359,22.5371973
+503,"Lublin, Śródmieście, Szewska","Luksusowe 2 pokoje w sercu miasta, 45m2, okazja!",2900.0,45,51.2507778,22.565041
+504,"Lublin, Wieniawa,  Legionowa","Nowe, umeblowane, bez opłat dodatkowych",1650.0,40,51.2506286,22.5318759
+505,"Lublin, Rogatka Warszawska,  Baśniowa","Wynajmę mieszkanie 2 pokojowe po remoncie, Rogatka",1700.0,49,-1.0,-1.0
+506,"Lublin, Wigilijna",mieszkanie 4 pokojowe 80mkw ul Wigilijna 4,2000.0,80,51.2320695,22.5387107
+507,"Lublin, okol. Uniwersytetu Medycznego","Mieszkanie, 60 m², Lublin",2900.0,60,-1.0,-1.0
+508,"Lublin, Czechów Dolny","Mieszkanie, 60 m², Lublin",2900.0,60,51.2608333,22.5291667
+509,"Lublin, Czechów, Józefa Mackiewicza","Mieszkanie, 56 m², Lublin",2900.0,56,51.2696677,22.5636821
+510,"Lublin, Śródmieście",Duże mieszkanie do wynajęcia - również pod biuro.,2952.0,100,51.2472348,22.5555465
+511,"Lublin, Rogatka Warszawska","Mieszkanie, 105 m², Lublin",3000.0,105,51.2514068,22.5283868
+512,"Lublin, Kalinowszczyzna, Niepodległości","Mieszkanie, 107 m², Lublin",3000.0,107,51.2580556,22.5925
+513,"Lublin, Wieniawa","Mieszkanie, 105 m², Lublin",3000.0,105,51.2499359,22.5371973
+514,"Lublin, Śródmieście, Wschodnia","Lublin, Centrum, 4 Pokoje Do Wynajęcia, Apartament",3000.0,140,51.2423185,22.5557621
+515,"Lublin, Śródmieście, Karmelicka",*** 2 Pokoje *** Śródmieście ***,3000.0,68,51.2495521,22.5636408
+516,"Lublin, Centrum, Fryderyka Chopina","Mieszkanie, 83 m², Lublin",3000.0,83,52.0308325,23.1134420359092
+517,"Lublin, LSM","Mieszkanie, 50 m², Lublin",3000.0,50,51.2416257,22.5293341
+518,"Lublin, Centrum","Mieszkanie, 64,50 m², Lublin",3000.0,64.5,52.0339822,23.1192263
+519,"Lublin, os. Konopnickiej, Pana Balcera",Komfort. apartament 3-pok Lublin Metropolitan Park,3000.0,68.5,-1.0,-1.0
+520,"Lublin, Czechów Dolny, Szeligowskiego","Mieszkanie, 56 m², Lublin",3000.0,56,51.2639484,22.5568978
+521,"Lublin, Czechów Dolny, Szeligowskiego","Mieszkanie, 61 m², Lublin",3000.0,61,51.2639484,22.5568978
+522,"Lublin, Kalinowszczyzna",Mieszkanie 100m2 dla firmy,3000.0,100,51.2548082,22.5861517
+523,"Lublin, Centrum","Mieszkanie, 47 m², Lublin",3000.0,47,52.0339822,23.1192263
+524,"Lublin, Abramowice, Abramowicka","Mieszkanie, 60 m², Lublin",3000.0,60,51.1970839,22.5859041
+525,"Lublin, Sławinek, Skalista","Mieszkanie, 137 m², Lublin",3000.0,137,-1.0,-1.0
+526,"Lublin, Centrum, Chopina","Mieszkanie, 83 m², Lublin",3000.0,83,52.0308325,23.1134420359092
+527,"Lublin, Czechów Dolny","Mieszkanie, 54 m², Lublin",3000.0,54,51.2608333,22.5291667
+528,"Lublin, Centrum, Szeligowskiego 8","Apart. z miejscem parking, z widokiem na Lublin",3150.0,54,-1.0,-1.0
+529,"Lublin, Sławin, Willowa","Mieszkanie, 120 m², Lublin",3200.0,120,51.2679266,22.5125805
+530,"Lublin, Centrum","Piękny Apartament W Ścisłym Centrum,",3200.0,80,52.0339822,23.1192263
+531,"Lublin, Czechów Dolny, Szeligowskiego",Super Nord Park Szeligowskiego for rent Mul,3200.0,65,51.2639484,22.5568978
+532,"Lublin, Stare Miasto, Rynek",Apartament na Starym Mieście.,3200.0,80,51.24780955,22.5675328021686
+533,"Lublin,  Rotmistrza Witolda Pileckiego",Mieszkanie 65 m2 Chodźki Uniwersytet Medyczny,3200.0,65,51.2648223,22.5637579
+534,"Lublin, Centrum, Dolińskiego",Nowe duże 3 pok. Unicka Wiktoryn for rent Mul Um,3300.0,60,-1.0,-1.0
+535,"Lublin, Śródmieście, Spokojna",Apartament W Centrum Lublina,3300.0,93,51.2503174,22.5537375
+536,"Lublin, okol. Politechniki","mieszkanie W Centrum, Wysoki standard! 100 Mkw",3300.0,120,-1.0,-1.0
+537,"Lublin, Czechów Dolny","Mieszkanie, 62 m², Lublin",3300.0,62,51.2608333,22.5291667
+538,"Lublin, Śródmieście,  Spokojna",Ekskluzywny apartament w centrum miasta,3300.0,93,51.2503174,22.5537375
+539,Lublin,Ekskluzywny apartament do wynajęcia,3300.0,61,51.250559,22.5701022
+540,"Lublin, Czechów, Tadeusza Szeligowskiego",***Apartament***Z Garażem***,3300.0,65,51.2672635,22.5583604
+541,"Lublin, Czechów, Szeligowskiego","Mieszkanie, 65 m², Lublin",3300.0,65,51.2672635,22.5583604
+542,"Lublin, LSM",Komfortowe mieszkanie z dużym tarasem Lsm,3500.0,72,51.2416257,22.5293341
+543,"Lublin, Sławinek",Mieszkanie dla 5 osób,3500.0,65,51.2562379,22.5198078
+544,"Lublin, Czechów","Apartament na wynajem, 3 pokoje, b. blisko Um",3500.0,70,51.2655556,22.5472222
+545,"Lublin, Śródmieście, Fryderyka Chopina","Ekskluzywny apartament w centrum, 60m2, 2 pokoje",3500.0,60,51.2476408,22.5546405
+546,"Lublin, Śródmieście, Krucza","Ekskluzywne, wyjątkowe 2 pokoje w centrum, 70m2",3500.0,70,51.2436904,22.5556555
+547,"Lublin, LSM, Wileńska",Nowoczesny apartament blisko centrum,3500.0,70,51.2443155,22.5237215
+548,"Lublin, Węglin",Ekskuzywny apartament na Węglinie,3500.0,72,51.2313889,22.4916667
+549,"Lublin, os. Mickiewicza","Mieszkanie, 72 m², Lublin",3500.0,72,51.2418491,22.526549
+550,Lublin,"Mieszkanie, 70 m², Lublin",3500.0,70,51.250559,22.5701022
+551,"Lublin, Stare Miasto, Rynek",Apartament na Starym Mieście.,3500.0,90,51.24780955,22.5675328021686
+552,"Lublin, Centrum",Wyjątkowy apartament w centrum,3500.0,120,52.0339822,23.1192263
+553,"Lublin, Stare Miasto",Trzypokojowe mieszkanie na Starym Mieście Lublina,3500.0,98,51.2473485,22.5688414
+554,"Lublin, Czechów Górny","Mieszkanie, 75 m², Lublin",3500.0,75,51.2636111,22.5394445
+555,"Lublin, Centrum",Super 3.pok centrum rachunki wliczone for rent mul,3500.0,100,52.0339822,23.1192263
+556,"Lublin, Śródmieście, Niecała",Apartament Lublin Śródmieście ul. Niecała 3 pokoje,3500.0,84,51.2511754,22.560845
+557,"Lublin, Centrum",Super Ekskluzywny Apartament Wysoki stand. Centrum,3500.0,120,52.0339822,23.1192263
+558,"Lublin, Stare Miasto","Mieszkanie, 55 m², Lublin",3500.0,55,51.2473485,22.5688414
+559,"Lublin, Bronowice, Żelazna","Mieszkanie, 60 m², Lublin",3500.0,60,-1.0,-1.0
+560,"Lublin, LSM, Wileńska","Mieszkanie, 75 m², Lublin",3500.0,75,51.2443155,22.5237215
+561,"Lublin, Śródmieście, Niecała",Atrakcyjne mieszkanie w ścisłym centrum,3600.0,100,51.2511754,22.560845
+562,"Lublin, Sławin, Świerkowa","Mieszkanie, 150 m², Lublin",3700.0,150,51.2698616,22.5042812
+563,"Lublin, Śródmieście","Mieszkanie, 83 m², Lublin",3900.0,83,51.2472348,22.5555465
+564,"Lublin, Centrum","Apartament 3 pokojowy w Centrum, ul. Narutowicza",3900.0,122,52.0339822,23.1192263
+565,"Lublin, Centrum","Mieszkanie, 100 m², Lublin",4000.0,100,52.0339822,23.1192263
+566,"Lublin, Centrum, Spokojna",Centrum 93m2 Spokojna ochrona parking for rent Mul,4000.0,93,52.0379354,23.1217375
+567,"Lublin, Centrum",Ekskluzywny Apartament w Centrum Miasta Wieniawska,4000.0,100,52.0339822,23.1192263
+568,"Lublin, Centrum, Niecała","Luksusowy, niepowtarzalny apartament w Centrum!",4000.0,82.94,-1.0,-1.0
+569,"Lublin, Centrum",Piękny Apartament w centrum 100 m2 faktura Vat,4000.0,100,52.0339822,23.1192263
+570,"Lublin,  Dolna Panny Marii",Luksusowy apartament 100m + garaż,4000.0,100,51.2425357,22.5606476
+571,"Lublin, Śródmieście,  Stanisława Leszczyńskiego","Apartament Lublin, ul. Leszczyńskiego,99m2,WYNAJEM",4000.0,99,51.2502874,22.5500099
+572,"Lublin, Stare Miasto",Piękny Apartament Na Wynajem Na Starym Mieście,4000.0,90,51.2473485,22.5688414
+573,"Lublin, Śródmieście, Czechowska","Mieszkanie, 106 m², Lublin",4300.0,106,51.2523099,22.5522465
+574,"Lublin, Miasteczko Akademickie","Mieszkanie, 105 m², Lublin",4350.0,105,51.2466616,22.5423062
+575,"Lublin, Wieniawa","Mieszkanie, 55 m², Lublin",4400.0,55,51.2499359,22.5371973
+576,"Lublin, Rudnik, Laurowa",2 pokoje Rudnik,1300.0,48,51.2764783,22.5814438
+577,"Lublin, Wigilijna",mieszkanie 4 pokojowe 80mkw ul Wigilijna 4,2000.0,80,51.2320695,22.5387107
+578,"Lublin, Śródmieście,  Spokojna",Ekskluzywny apartament w centrum miasta,3300.0,93,51.2503174,22.5537375
+579,"Lublin, Czechów Dolny","Mieszkanie, 140 m², Lublin",4500.0,140,51.2608333,22.5291667
+580,"Lublin, Dolna Panny Marii",Apartament w centrum Lublina wysoki standard.,4900.0,100,51.2425357,22.5606476
+581,"Lublin, Śródmieście, Dolna Panny Marii","Mieszkanie, 100 m², Lublin",4900.0,100,51.2425357,22.5606476
+582,"Lublin, Dziesiąta,  Nowy Świat 5F",Kawalerka 27m2 Nowy Świat I piętro,4900.0,27.27,51.2279185,22.5709555
+583,"Lublin, Centrum","Mieszkanie, 105 m², Lublin",5000.0,105,52.0339822,23.1192263
+584,"Lublin, Wiśniowy Sad",Ekskluzywny Apartament do wynajęcia blisko centrum,5000.0,115,-1.0,-1.0
+585,"Lublin, Centrum","Mieszkanie, 117 m², Lublin",5600.0,117,52.0339822,23.1192263
+586,"Lublin, Centrum","Mieszkanie, 175 m², Lublin",5900.0,175,52.0339822,23.1192263
+587,"Lublin, Śródmieście, 3 Maja",Lublin ul. 3maja inwestycja Kamienica pod 7,6000.0,104,51.2497333,22.558225
+588,"Lublin, Czechów,  Śliwińskiego",Kawalerka do wynajęcia,1200.0,30,51.2732021,22.5544554
